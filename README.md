@@ -21,5 +21,12 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+Which resource did you choose to use?
+I chose to do the SQL BOT AND SQL ZOO to get more familiar with the queries an syntax what we learned about in SQL up to date 
 
 - What are three things you learned during this lab?
+I learned the correct order you can execute a query
+I learned how to use the DISTINCT to remove dup result/s in a query
+How to alter tables 
+
+
